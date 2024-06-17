@@ -28,7 +28,7 @@ class Intrest extends Frame
         b3=new Button("Close");
         l.setBounds(160,50,200,50);
         add(l);
-        l1.setBounds(50,100,100,50);
+        l1.setBounds(50,100,110,50);
         add(l1);
         l2.setBounds(50,150,100,50);
         add(l2);
